@@ -1,2 +1,2 @@
 # algorithmic_trading
-README
+Dylan Bowman
